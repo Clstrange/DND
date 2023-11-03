@@ -1,0 +1,70 @@
+Description: Medium sized town that is bustling with many people, Town is on alert and 
+there are guards all around
+
+Buildings:
+Jill's Magic Shop
+Town Square*
+Rising Tide Inn
+Townhall
+Oceans's Forge
+Bribis Trading Center
+Convoy*
+
+-Jill's Magic Shop-
+Owner: Shorter human woman, Jill
+Description: Is the only one in the smaller shop
+"Welcome to my magic shop, my name is Jill I specialize in enchanting but I have a couple of 
+trinkets that might interest you."
+"I can enchant an Item or weapon for you but you will need to bring me a weapon that has
+been reforged in gold."
+Shop: 
+-Seal of Swiftness: 120G
+-Stone of Precision: 200G
+-Rune of Silent Foot: 100G
+-Seal of Sight: 85G
+-Blood Axe(uncommon): 900G
+-Mana Potion(Lesser)x2: 100G
+-Mana Potion: 250G
+-Ring of Movement: 300G
+-Ring of Protection: 200G
+
+-Ocean's forge-
+Owner: Large muscular human man, Gerald
+"Come on in! What kinda Weapon are you looking for?"
+-any weapon: normal price
+-custom weapon: price + 50G
+-gold forge weapon: normal price + 725G
+-gold reforge weapon: 725G
+
+-Bribis trading center-
+Owner: Small male Gnome, Bribis
+Description: "Greetings, anything you wish to sell? Or if you are looking
+for basic provisions and day to day items I have them.
+-will buy anything at market value
+-has all basic provisions and items
+
+-Rising Tide Inn-
+Owner: Medium sized Tiefling, Amron
+Description: decently sized Inn that is crammed full of people. Only one room 
+available, with one bed.
+-food: 1g
+-room: 1g
+-QuestBoard:
+	Slay sea monsters: the Lake is getting oversaturated with monsters that
+			need to be cleared out see portmaster Galmar for more info.
+			Reward: 400G
+	Unloading shipments: We are expecting a large shipment from a city,
+			we need to load and unload the ships in time to meet strict
+			deadlines. See portmaster Galmar for more info
+			Reward: 200G
+	Community support: With the influx of people from the destruction of
+			LittlePort, help is needed constructing temporary shelter,
+			keeping the peace, and passing out rations
+			Reward: 250G
+
+-Town Hall-
+Owner: Large male Half-Orc, Threg
+Description: "Is busy trying to figure out what happened to the village of 
+	LittlePort."
+
+

@@ -1,0 +1,26 @@
+--Head East--
+Highmage Thexius: "If you choose to head East you will have to go as soon as possible I'll
+have my assistants bring our fastest steeds for you. Ride hard and ride fast, I hope to see
+you again soon alive and well. You should be able to had straight to the town Deserthall, 
+if you ride hard and in good conditions you should be able to make it there within 4 days. 
+I cannot iterate how much speed is of importantance. Our best scryers who saw this calamity 
+envelop our lands predicate at its current rate of expansion it will reach the capital by the
+end of Winter.
+
+Party: Finish buying everything needed, preparing for the hard journey ahead. Then begin
+the journey to Deserthall
+
+Travel:
+Perfect travel = 3 days
+Each day: roll event die 1d4
+1 = 4 bands of bandits(one-time): bandits from east all converged on this rode, taking advantage of the
+	situation. 4 bandit captains, 20 bandits
+2 = Snowy storm: either slow down half pace or risk injurying horses
+
+3 = Traveling merchant(one-time): Gnome, draw 10 random magical items to sell, sells basic wares
+
+4 = Good timing
+
+3
+
+3 1/2

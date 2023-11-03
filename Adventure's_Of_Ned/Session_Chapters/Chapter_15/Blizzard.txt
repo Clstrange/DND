@@ -1,0 +1,13 @@
+Whoever is on watch begins to notice the fire looks dimmer than it did a second ago.
+A cold breeze rushes by and all of the sudden they can feel a deep chill inside their
+soul, the freezing cold doesn't seem to be coming from the snow anymore.
+
+Effect: players are only able to find good rest on nights the cold seems bareable
+each other nightnight every player must make a wisdom saving throw DC18 to take a long rest
+DC15 to take a short rest, and anything less than that equals not exaustion. Nat one equals 
+a level of exhaustion.
+
+Guarenteed short rest require a full days of time and travel time is halved
+
+Party seems to have less encounters and days seem to fly by while also feeling like an eternity
+

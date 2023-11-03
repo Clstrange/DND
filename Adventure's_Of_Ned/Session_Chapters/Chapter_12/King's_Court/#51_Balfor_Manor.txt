@@ -1,0 +1,24 @@
+Description: Extremely large building that is only smaller in size to the royal palace.
+A ton of people are running around the Manor and many of them are in red and orange robes.
+
+Head of Family: Aldrian Balfor
+
+Henry Balfor: Male Human: small build: Scholar's face, carries himself with 
+purpose and confidence. Wears multi-layered robes of blue and gray. Crest on back of hand.
+
+Henry Balfor conversation: "So Jenson told you to come meet me? There can only be one reason for
+that. He must see you as a potential asset for the family, if you are interested, I can not 
+offer you positions as full-fledged members of the family. But something tells me you wouldn't
+want to be that tied down in the first place. However as adopted members you could take 
+assignments from the family's mission list and be rewarded accordingly without much 
+responsibility. I won't be able to give you any missions yet because I need to clear all of this
+with the family heads, but I am sure they won't deny assistance from people with your kind of
+firepower.
+
+-Explain what the family does.
+-Lead conversation to Nathan.
+
+"You know, I've been trying to nail down Nathan for years and I knew there was something fishy
+with that Mayor. I have a contact with the Fumus family who has a feud with that man and I am
+certain he can take care of it for you. You will likely be called in as witnesses in a week or 
+to. So try not to run off before then."

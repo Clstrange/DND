@@ -1,0 +1,38 @@
+Bulmuc Bronzebeard
+HP: 150
+AC: 17
+action: has a cannon that can cast one use of darkstar
+	has a bracer that can cast one use of Gavity Fissure
+	has an amulet that can cast Eyebite
+	has 3 gravity sinkhole beads
+	has a box that can cast 5 uses of counterspell at 3rd level
+
+Has an Iron golem
+Has jewel on a necklace that has one use of legendary resistance
+
+
+Jakhom Bronzebeard 
+HP: 300
+AC: 19
+
+
+Has four blackended hand-axes that have cracks of red glowing through out it
+Has a demonic helm of similar style to hand-axes 
+
+multiattack:
+can make an attack four each of his hand-axes he has on him
+Hit: +7
+DMG: 1d6 + 6 slashing, 3d8 fire
+
+legendary action(3pts)
+1pt - return a handaxe
+1pt - throw a handaxe opening a portal that summons two blackrazor demons
+
+black: Blackened creatures that have red cracks glowing throughout their bodies,
+it stands on four limbs and has razor sharp blades protruding from its back
+
+HP: 30
+AC: 15
+Spd: 40ft
+Hit: +5
+dmg: 2d8 + 6 slashing

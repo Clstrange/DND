@@ -1,0 +1,27 @@
+Owner-Calhiem(Gnome)
+
+-Shop-
+
+Scrolls:
+Cure wounds; 1/75G
+Compelled Duel; 1/75G
+Entangle; 1/75
+Divine Favor; 1/80G
+Blur; 2/200G
+Healing Spirit; 2/200G
+Hold Person; 2/200G
+Moonbeam; 2/300G
+
+Items:
+Ring of Holding(lesser)/+20stor; 75G
+Ring of Holding/+100stor; 250G
+Ring of Movement(lesser)/+5ms; 150G
+Ring of Movement/+10; 500G
+Ring of Protection/1use block attack, reaction; 200G
+
+Potions:
+Healing Potion; 50G
+Healing Potion(Greater); 110G
+Healing Potion(Superior); 600G
+Antidote; 100G
+

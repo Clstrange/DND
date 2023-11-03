@@ -1,0 +1,29 @@
+---Aquarios the Storm Maiden---
+HP: 400
+AC: 17
+SPD: 35ft
+
+Dex: +4
+Str: +2
+Wis: +10
+Int: +6
+Cha: +4
+
+Abilites:
+Tsunami Spell - 1 use
+
+Water strike (arms turn into streams of water): 15ft reach, +8 hit, 2d12 cold dmg
+
+multiattack: three water strikes
+
+Depths of the Abyss: creature must make a dex save of DC-18 or be snatched by a stream of water from the lake and get pulled under.
+The creature can remake the save at the end of their turn. Another creature can jump into the water to save the creature and give the creature advantage on
+their save. 
+
+Call of the storm: when Aquarios is bloodied her colors become a darker shade and her pupils turn to lighting bolts and she gains legendary actions 3pts.
+	The sky darkens and storm clouds come in.
+
+legendary actions:
+(1pt) Call lightning spell
+(2pt) Depths of the Abyss
+

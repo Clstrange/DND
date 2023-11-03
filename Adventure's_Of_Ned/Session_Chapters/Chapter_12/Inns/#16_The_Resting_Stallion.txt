@@ -1,0 +1,11 @@
+Owner: Branford: Male Human
+
+Description: Busy place that isn't the nicest looking, full of gruff looking people and 
+those who look like they've had one to many drinks. Gambling is quite common among the tables.
+
+Bonus: Can gamble for money, 5/6=win, 1/2=lose
+
+Quest_Board:
+
+dwarven firewater
+

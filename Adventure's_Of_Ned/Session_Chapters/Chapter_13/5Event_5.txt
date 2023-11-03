@@ -1,0 +1,26 @@
+--Defence of Deserthall--
+Survive the night, each round is an hour and the night is 8 hours Two party members fight while
+one takes a short rest. Each round each player takes 1d20 damage and the undead try to breakdown
+the fortifications. Special monsters deal additional damage and can cause special effects
+
+Special monster summons: round 3, round 6, round 8
+
+roll d4:
+	1-witch: aditional 1d20 damage, HP: 40(twisted old hag)
+	2-flesh golem: one shot fortification, HP: 60(giant golem of flesh)
+	3-ravanger: 60ft movement, one shot infantry, HP: 30(twisted skeleton spider and human)
+	4-skeleton general: stands in back 4d8dmg one target, HP: 30(larger skeleton with a large green bow)
+
+
+Fortifications
+	Towers-30hp
+	Walls-60hp
+undead do 5hp damage a hit
+
+undead:
+	HP: 10
+	Spd: 30 movement
+each round spawn in 5d6
+
+Poppy can come in one time and do a fireball spell version of explosive arrow
+14

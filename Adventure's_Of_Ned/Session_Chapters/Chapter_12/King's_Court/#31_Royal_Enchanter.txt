@@ -1,0 +1,21 @@
+Owner: Nazesha: Female Human: Medium build, Blonde hair well done, finely dressed: 
+Extremely Proud
+
+Description: Extremely high-class looking shop. Many servants running around keeping things
+cleaned and organized but very few customers. Meets by appointment only, clerk at desk won't
+let anyone pass who hasn't scheduled an appointment in advance.
+
+Service: Only works on custom made items of a certain quality. Requires design for how you
+want the finished product to look
+
+Enchanting item: Makes item Enchantable and have two slots instead of one
+Price: 800G
+
+Enchanting weapon +1: Makes weapon Enchantable and all weapons get +1 to it by default
+Price: 1200G
+
+Enchanting Armor: Makes Armor Enchantable and all but Indestructable and weightless
+Price: 2000G
+
+Enchantments: Takes requests on what Enchantments the client wants and creates them
+Price: Varies

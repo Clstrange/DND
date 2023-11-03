@@ -1,0 +1,57 @@
+---Character Information---
+
+_Melinda's Character_
+	Name: 
+	Race: Elf
+	Class:
+	Backstory:
+	Motive:
+	How they ended up in Vanaheim City:
+	Items:
+		Common:
+		Common:
+		Common:
+		Uncommon:
+		Uncommon:
+
+_Luke's Character_
+	Name: 
+	Race: Human?
+	Class: Warlock/Bard
+	Backstory:
+	Motive:
+	How they ended up in Vanaheim City:
+	Items:
+		Common:
+		Common:
+		Common:
+		Uncommon:
+		Uncommon:
+
+_Mark's Character_
+	Name: 
+	Race: 
+	Class: Fighter
+	Backstory:
+	Motive:
+	How they ended up in Vanaheim City:
+	Items:
+		Common:
+		Common:
+		Common:
+		Uncommon:
+		Uncommon:
+
+_Brooke's Character_
+	Name: Sumner
+	Race: Half-Elf
+	Class: Druid
+	Backstory:
+	Motive:
+	How they ended up in Vanaheim City:
+	Items:
+		Common:
+		Common:
+		Common:
+		Uncommon:
+		Uncommon:

@@ -1,0 +1,44 @@
+					---NPC's---
+Village of Thynemar:
+- Village Elder(Phemaia)
+	-eye color: black
+	-hair color: dark blue
+	-skin color: magenta
+	-5'5"
+	-age: 116 years
+	-one of the few who remember the great war doesn't like other races
+	and is very weary of the racism that exists.
+
+- Tavern Owner(Ebrus)
+	-eye color: black
+	-hair color: red
+	-skin color: red
+	-5'9"
+	-age: 30 years
+	-Has met a few outsiders and they have all been friendly people,
+	runs a tavern that welcomes all and thinks that racism is a bunch
+	of superstition.
+
+- Smith Owner(Andris)
+	-eye color: black
+	-hair color: blue
+	-skin color: red
+	-6'0"
+	-age: 60 years
+	-Large, loud, likes to complain about people breaking equipment
+
+- StoryTeller(Gueil)
+	-eye color: grey
+	-hair color: red
+	-skin color: red
+	-5'5"
+	-age: 160 years
+	-was a traveling bard before the great war and the mass genocide. 
+	Remembers everything in clear detail and is one of the only living 
+	Tieflings to remember the stories and traditions of their people.
+
+- RND NPC(Iathus)
+- RND NPC(Inzes)
+- RND NPC(Mantra)
+ 
+	

@@ -1,0 +1,16 @@
+		---Traveling_Merchant---
+
+Name: Ernest
+Race: Gnome
+
+Background: Raised in the capital adopted by human
+	merchants, now travels around the southern 
+	territory trading goods from the capital 
+	to the locals. Is currently on his way to 
+	Grenfel to purchase a large portion of their
+	herbs.
+
+Products:
+	Potion of Healing(3): 50G
+	Provisions: 2S
+	Signal Flare(5): 10G

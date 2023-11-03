@@ -1,0 +1,8 @@
+Owner: Gimrig: Male Dwarf
+
+Description: Extremely loud, and full of Dwarves. At night someone gives a speech about
+slaying the criminal Garneth Helmfist.
+
+Bonus: If they notice Garneth everyone will attack immediatly
+
+Quest_Board: 

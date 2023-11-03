@@ -1,0 +1,34 @@
+		---Search and Destroy---
+
+Description: 'See mayor for details'
+
+(Mayor): Thank you for coming, I ask that
+you don't speak of this quest to anyone outside
+of this room. I would like to avoid needless panic.
+I'm sure you have noticed that monster activity has
+been increasing in all of the surrounding areas. 
+The town of Freeman would have been wiped out if 
+not for your group. However it has been eerie silent
+around here these last few months. Besides the 
+occasional wolves and the rare troll it is like all
+of the monsters have vanished. And because of it
+our city guard has become extremely lax. This 
+concerns me greatly because two weeks ago
+I hired two men to search deep into the 
+mountains and they have yet to return. They were
+two highly skilled rangers and I am afraid of what
+could have happened to them. I believe the monsters
+in the area have been amassing in the mountains
+and the military won't act on my "gut feelings."
+If I am right I will pay a handsome reward for you
+to take care of them for me.
+
+(Mayor): By the way were you ever able to figure
+out what was causing the wolves to go rampant
+at Freeman?
+
+(Mayor): Interesting, try to be descreet about it
+but you might want to visit old man Gjile at the
+Richety Inn. He's a story teller who knows a lot 
+more than most, he might know a thing or to
+about what that glass ball was.

@@ -1,0 +1,32 @@
+The party has been traveling for a week and while the weather hasn't gotten worse
+all of their wounds are adding up and things aren't getting much better. While traveling
+the woods seem to have gotten thicker, though everything around is dead for miles. 
+When the party hears the thundering of hooves from behind them.
+
+4 armored skeletons
+
+2 archer skeletons
+
+1 witch skeleton
+
+armored skeleton: buff skeleton with heavy armor with shield and battle axe
+HP: 80
+AC: 20
+Hit: +5
+dmg: 2d12 + 5
+
+archer skeleton: larger skeleton with giant bows that have arrows as thick as their wrists
+HP: 50
+AC: 16
+Hit: +10
+dmg: 4d12 + 8 piercing
+
+witch: small skeleton hunched over in scraps of robes with a staff
+HP: 50
+AC: 14
+Hit: +6
+DC: 16
+
+can cast 4 instances of blindness/deafness, Ray of enfeeblement, Wither and Bloom, Ray of Sickness
+can cast two instnaces of Contagion
+can cast one instance of Circle of Death

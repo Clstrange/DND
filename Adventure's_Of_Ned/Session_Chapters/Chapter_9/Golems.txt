@@ -1,0 +1,93 @@
+Crystal Monsters:
+	amethyst, diamond, sapphire, iron, copper
+HP: 30
+Attack: hit+6 4d4 + 5
+Skills:
+Explosion- self destruct, DC Dex 16 4d8 1/2 save
+Laser: 
+------
+Crystal Golem(Copper)
+
+HP: 30
+Attack: Hit + 6, 4d4 + 4(bludgeoning)
+AC: 15
+Movement: 35ft
+
+-Skills- 
+Electic Charge: Can use reaction to store the 
+	damage from a lightning attack causing its
+	next attack(hit) to deal half the dmg it stored
+	in addition to its base damage.
+------
+Crystal Golem(Iron)
+
+HP: 30
+AC:13
+Atk: Hit+5, 2d6 + 4(bludgeoning)
+Movement: 25ft
+
+-Skills-
+Explosion: On taking lethal damage each creature in 
+	a 10ft radius makes a DC dex/16. 
+	On fail take 6d6 on save take half damage
+Ironhull: Create an Irondome that covers a 5ft
+	radius. Dome has an AC of 14 and HP of 20.
+	If Explosion activates inside the dome
+	all creatures in the dome fail the save.
+------
+Crystal Golem(Diamond)
+
+HP: 40
+AC: 20
+Movement: 25ft
+Atk: hit + 6, 2d8 + 5(bludgeoning)
+
+-Skills-
+Laser: Hit + 7, 5d8(fire)/1use, range 40ft
+------
+Crystal Golem(Titanium)
+
+HP: 20
+AC:18
+Movement: 50ft
+Atk: Hit + 7, 2d10 + 4(slashing)
+
+-Skills-
+Multiattack: Can Atk twice per action
+------
+Major Golem(all)
+Size: Large 2x2
+HP: 150
+AC: 15
+Movement: 30ft
+Atk: Hit + 5, 3d6 + 4, range/10ft
+
+
+-Skills-
+Multiattack: Attack twice per action
+
+Metamorphasis: Every other turn roll a d4 and gain the
+	properties of on of the minor golems for a turn.
+Copper: Atks deal an additional 2d4 lightning dmg
+	and gain the *Eletrical Charge* skill
+	AC: 15
+	Hit: + 6
+	Movement: 35ft
+Iron: Gain the *fireball* spell save DC dex/14
+	Recharge/6 costs 20hp to cast. 
+	Gain the Ironhull Skill as a free action.
+	AC: 13
+	Movement: 25ft
+Diamond: Replace attack with the laser skill
+	AC:20
+	Movement: 10ft
+Titanium: Multiattack grants four attacks rather 
+	than two. Damage is slashing.
+	AC: 18
+	Movement: 60ft
+
+
+
+	
+	
+

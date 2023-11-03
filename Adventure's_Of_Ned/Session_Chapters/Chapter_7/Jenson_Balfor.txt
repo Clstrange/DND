@@ -1,0 +1,51 @@
+		---Jenson_Balfor---
+
+
+Description:
+Black Hair Pulled back
+Glasses removed
+Gray Black clothes
+shirt is missing sleeve on right arm
+
+"Where is your kenku friend? I'll need to bring you
+guys in for questioning. *Pulls out Compass* 
+My name is Jenson Balfor, third son of Aldrian Balfor
+Head of the Kings royal cabal.
+
+
+HP: 100
+AC: 17
+Spell Hit: +7
+Spell Save: 17
+
+Spell Slots: 
+Level_1: 4
+-Burning Hands
+-Chromatic Orbs
+-Magic Missile
+
+Level_2: 3
+-Scorching ray
+-Crown of Madness
+-Shatter
+
+
+Level_3: 3
+-CounterSpell
+-FireBall
+
+Level_4: 1
+-Confusion
+
+Jewerly
+-two rings
+	(Silver ring blue gem): Blur
+	(Silver ring green gem): Slow
+
+-one crest on his arm: creates 5 illusions of self
+	
+-one amulet: Teleports creature back to location
+
+
+
+1

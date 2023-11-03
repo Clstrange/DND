@@ -1,0 +1,31 @@
+			---Grenfel---
+
+Description:
+	village a little larger than Thynemar, it is 
+	surrounded by tall grassy fields and as you travel east of it 
+	the terrain becomes larger and larger rolling hills.
+
+Size: Medium
+
+Buildings: 
+- Mayor's house
+- Blacksmith
+- Item Shop
+- Inn
+
+Important NPCs:
+- Luca(Demon)
+- Jones Moore(Adventurer)
+- Jack Moore(Adventurer)
+- George Hathorn(Blacksmith)
+- Nemore Hathorn(Mayor)
+- Angie Hathorn(Mayor's Daughter)
+- Ned(Adventurer)
+- Biklin(Traveling Merchant)
+- John Harley(Item Shop)
+
+Generic NPC's:
+- Leha(Female)
+- Nirli(Female)
+- Jeko(Male)
+- Lun(Male)

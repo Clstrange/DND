@@ -1,0 +1,41 @@
+Lilly
+
+Race: half-elf/half-tielfing
+class: rogue/ranger
+
+HP:85/ 3
+AC: 17
+Hit: + 6
+
+str + 2
+
+inititave + 5
+
+Weapons: Twin Daggers, one red, one green
+	throwing daggers
+
+Red: 2d4 + 5 fire damage
+green: 2d4 + 3 posion damage, 
+	con save of 16 or be poisoned 
+throwing daggers: 1d4 + 3
+
+skills: 
+skillfull dodge: 
+	- when about to be hit use reaction to boost
+	  AC by 3.
+	- gain advantage on all dex save throws
+infernal legacy: resistance to fire damage
+multiattack: use action to make four attacks
+
+explosive daggers: use action to 
+	make three ranged attacks. Enhancing 
+	each dagger thrown 2d4 + 3 fire damage if they hit
+	or half if they miss. damage is dealt to all creatures within 5ft.
+
+fey cloak: can use action to use the 
+	invisibility spell once per long rest
+
+fey touched: use free action to cast misty step
+	five uses per long rest  5
+
+assassaination

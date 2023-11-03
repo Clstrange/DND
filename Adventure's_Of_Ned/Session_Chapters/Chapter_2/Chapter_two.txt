@@ -1,0 +1,30 @@
+					---Chapter_Two---
+
+1. Part_One:(party)
+	-Both parties arrive at grenfel around nightfall
+	-They meet each other at the tavern "The rolling hills inn"
+	-Spend the night and in the morning luca pops in
+	-Rumors of children going missing in the surrounding hills
+	-Luca runs in saying her friends have been captured by a monster in the hills
+	-Travel a couple of miles before roll a perception check
+	-If successful notice the demogorgon in a burrow, otherwise demogorgon surprise attacks them
+
+2. Part_Two(party):
+	-Rest and return to village
+	-Village is asleep and guards knocked out
+	-Luca is in mayor's house about to suck his blood
+	-Encounter
+
+3. Part_Three(party):
+	-Mayor thanks party and gives them 75 gold a piece
+	-He gives them a map of the surrounding area 
+	-He gives them a name of a contact of his in the the fortress
+
+4. Side_quests(party)
+Find missing kitten Mr. Fluffles:
+	Located: on a tree in the medicinal garden
+	Requirements: pick one of nine sections to search 
+		make a DC 20 investigation check, reduce DC by 2 for every 
+		party member helping search each section. Each search takes one 
+		hour.
+	Reward: a bag of 30 medicinal herbs and 10g

@@ -1,0 +1,13 @@
+HP: 113 (54)
+AC: 16
+
+Multiattack: three longsword atks
+		- 1d8 + 8 (1)
+
+Crimson rite:
+	- 1d6 dmg to self
+	- 1d6 dmg added to weapon-fire
+
+Formulas:
+	- dmg + 2 / dex disadvantage
+	- AC + 2 / wis disadvantage

@@ -1,0 +1,47 @@
+__Gathering the group__
+
+The party starts off split into three different groups
+group one: Crispus Lothran
+group two: Rovock, Dwindle
+group three: Azerlein, Gondo
+
+"Crispus has arrived in the guildhall of Luminosa. He is waiting for Gondo and keeping an eye out for a Gensai
+that Gondo claimed would likely show up around the same time as him."
+
+"A group enters the Guildhall" Have Mark and Brooke introduce their characters.
+
+*let the three players interact for a bit*
+
+*Another group enters the tavern, it is Gondo a mysterious pale-gray elf that is covered head to toes in scars*
+
+"Crispus! You got my message, and Rovock what a coincidence, who would've thought you would show up at this perfect time?
+Seems I got lucky afterall, now who might your leafy companion be? Well I could use
+all of the help I can get so welcome aboard. This here is Azerlein, she is going to be your guide for the journey into
+the new world. Now as for payment, you agree to the quest I'm about to layout and I'll give you what each of you desire most."
+
+"for Crispus, I can promise you chance to sing the praise of your lord in the grandest location of all of Taldarim. In the noble
+courts of the Elven city fo Vanaheim."
+
+"For Rovock, I can promise you a rock. But not just any rock, only the finest of all the rocks. A rock that is imbued with the 
+concentrated power of Klemrock himself, that when used will allow you to understand if not briefly the true will of the Primordial
+that can be used to guide you for the rest of your life. It is truly a rock among rocks."
+
+"For Azerlein, I have already brought you to the border of your country. Though once the quest is over I will gladly teleport
+you right to the center of your home."
+
+"And lastly for my Mr. Leafy here... What is it that you want? I should have an elixer or to that can burn those plants right out of your soul"
+
+"As for the quest. When my Robotic doppelganger teleported all of Alenkaria to Taldarim he used my shack as an anchor point. Which means that my shack
+is somewhere likely in the Shadowfell. Normally I could just teleport myself to it or teleport it to me, however there is a massive Anti-Teleportation field 
+surrounding the continent. No high level spaitial magic can come in or out of there. I need you to destroy that field. There should be a large magic formation
+that is creating the effect. You destroy the central part of that formation you destroy the field. I have created a device that will point you in the direction of 
+that central part, follow it using Azerlein as a guide and destroy the magic field. I have on me a single Scroll of the Forgotten World. I always keep it on my person
+in case of emergencies and there is no better time to use it than now."
+
+
+
+
+
+
+
+

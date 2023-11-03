@@ -1,0 +1,53 @@
+-Description-
+As the party approach the town they notice that it is different from the rest of the wastelands they have been traveling
+the town looks like it has recently been fortified and at a distance they can see guards posted on the walls and around 
+the entrance to the town. As the party gets closer they can see that the guards are well armored but that they are not
+human. Every creature is in fact still undead. 
+	- Undead Patrols - 4 undying soldiers and one dread warrior
+	- DC stealth - against Patrols +3
+
+-Inside the town-
+-Description: the town is bustling with a lot of undead, they all seem mindless but have tasks to do and are working away.
+	Throughout the town the party can see multiple giant 20-30ft statues of a menancing Minotaur some have him with 
+	a greataxe in both ands and a staff across his back, others have a staff in hand and greataxe across the back, along 
+	with several other heroic poses. In the center of town seems to be a magnificant building that stands out above the
+	rest.
+
+	- Every party member gets three actions but must make stealth checks depending on the actions
+
+-Inside the mansion-
+The first thing the party sees is a large beautiful room that looks like it is meant to house hundreds of people.
+Inside they see a young female human directing a group of skeletons that are setting up chandeliers and windows. 
+Upon closer inspection the human's skin is tinged pale green and her eyes have a slight pale green glow to them.
+She notices the party and introduces herself as Poppy. 
+"Hello there! (she shoos away all the skeletons in the room) I didn't know we were having travelers, those blasted
+guardsmen can really struggle to follow orders. I hope they didn't give you to much trouble."
+
+-Poppy's story-
+Nearly a year ago I rode with Rinarack into the great hoardes of the undead and there I died so that he and his companions
+could put a stop to whatever was causing it. Later I awoke to Rinarack hovering over me telling me that for my valiant 
+efforts I would be given a second chance at life. You see he didn't only put a stop to the great calamity but he took control
+of it. He used his new found power to raise me from the dead and sacrificed his Deathknight to restore me and make me 
+stronger than ever. Now I am building up this city in his honor, because once he finishes tearing down the old world he
+will build a new one from its ashes. And I am going to be prepared to greet him when he does.
+
+Encounter - Death Knight - Longbow rather than Longsword, no spellcasting. When she parries she can move 10ft as a reaction
+	without provoking opportunity attack.
+		- Lair - every round 1d4 undying soldiers join the battle
+Nathan - 21
+Lair - 20
+Rovock - 19
+Undying - 19
+Crispus - 13
+Dwindle - 3
+Poppy - 2
+
+
+11
+11
+11
+11
+
+5
+
+152

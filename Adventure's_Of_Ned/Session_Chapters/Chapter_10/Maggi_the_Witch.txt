@@ -1,0 +1,75 @@
+NPC-Maggi(human)
+
+Description:
+	short humanoid that looks
+	really old and withered. White hair
+	Dangling over her face. Has a walking 
+	Stick. Has Gaps in her teeth long bony fingers 
+	eyes slighlty glowing a poisonus green.
+	Speaks in a raspy withered voice.
+
+Monologue:
+	HEHEHE What have we here?
+	What brings you to
+	Na'zarith's Swamp? Or rather what has 
+	brought Na'Zarith's Swamp to you? This is
+	the las vestige of the Ancient One, 
+	Na'Zarith The Mutilated Seer.
+
+	After Alenkar fell
+	to the Draconic Shade Zothicrig he landed in the heart of 
+	Na'Zarith's Lair. He spent the next decade battling Na'Zaroth's 
+	minions getting stronger the farther into Na'Zaroth's realm
+	until he found Na'Zaroth herself. Discovering it was the Ancient One
+	that had sent Zothicrig he after a fierce battle severed Na'Zarith's
+	head and burned her remains. However Na'Zaroth is not so easily
+	slain. Her physical form may have been destroyed but she kept
+	her essence lives on. This swamp is the living beating heart of 
+	Na'Zaroth that keeps her alive as she slowly regains enough power
+	to once again roam the mortal realm.	
+	
+	Now Na'Zarith wouldn't have called you here for nothing
+	she is willing to offer her power, for a price. Mortals like gold
+	don't they, then how about gold? 300 gold a person, and your
+	fate will be revealed.
+
+	I sense a foreign power within you, it reminds me of young warlock
+	by the name of Cyrus Nevermore. Yes, he sook power of the dead, greater
+	than all of his collegues. Na'Zarith granted his wish but at the cost
+	of his sight.
+
+Regal:
+Destiny- The dice speak a sad story of betrayal and 
+	failure. Now the dice speak of what it is you search for. Locked away
+	cold, dark dungeon, sealed away by a sorcerer's crest.
+
+Rinarak:
+Destiny- In you I sense two forces, preservation and destruction.
+	Far East the Undead Harold awaits you, and it is there you
+	will reach a crossroads for your destiny. You are strong of 
+	body but weak of mind, if you hope to avoid being consumed 
+	by your own rage you must strengthen it.
+
+Garneth:
+Destiny- In you I sense a growing Paranoia, you are surrounded by
+	enemies and no where is safe. The Academy will offer momentary
+	rest but be careful who you trust. It is more than just your clan 
+	that wishes for your demise. You must head North, back to your 
+	homeland and reclaim what is rightfully yours. Embrace your birthright
+	and let it guide you.
+
+
+Virtue:
+Destiny- I see a life in the shadows, 
+	a destiny not of your own. You 
+	must find your own path before 
+	you are entrapped in someone elses.
+
+Freyja:
+Destiny- For you, the farther you run from your destiny the closer
+	you will arive to it. Your enemies are mearly an arms length away, though
+	by the time you notice it may be to late. The BloodBorne Harold is 
+	on the move, she grows stronger every day and with her comes the 
+	destruction of your people.
+
+

@@ -1,0 +1,65 @@
+Summary:
+The party has traveled four days and are close to the village that
+is supposed to be around here. As they are traveling through the now
+constant blizzard they can here the clinking of a coin and can see a figure a hundred or
+so feet ahead approaching them. Even though he is far away it is easy to notice his details.
+He looks like a human male that has a slight translucent tinge to his skin. His clothes are
+torn and ragged and patches of his skin seem to freezing up but he doesn't seem to
+notice as he slowly
+flips a coin in his left hand. What the party does notice is his that his gaze is fixated on them , though
+he wears a deadpan expression that makes it look like he could freeze to death and would
+just sigh at the inconvience.
+
+just like his appearance they can easily make out his words as he speaks to the party
+"My name is Toki Talidor, and you have what I want"
+There is a slignt momentary glint in his eyes as he says
+"Everything"
+Toki flips 
+
+Toki Talidor:
+HP: 40
+AC 18 (passive barrier)
+
+-railgun: Toki flips one of his coins at a creature and the coin blasts towards them tearing
+up snow in a line of lighting and force. Creature hit needs to make DC 15 str or be knocked
+back 15ft, 5ft cube is difficult terrain.
+DC: 17 Dex or half dmg
+DMG: 8d6 force, 3d12 lightning
+	creatures within 5ft must make a save throw or take half the force damage
+
+
+-clones: Once per long rest as a bonus action Toki taps his foot gently on the ground
+and vanishes. Four of him appear surrounding the party, clones each cast railgun or can join
+together to increase the radius and damage of the "Endless Winter" spell.
+
+all of the clones seem to act independtly in their actions, one is in a tree flipping a coin
+
+-Endless Winter: Toki extends his arms and the snow and wind calms for a second, he then
+starts moving his arms in a circular pattern and the surrounding snow and wind starts
+to pick up creating a sphere of cold.
+
+creates a 20ft radius that expands 10ft for every clone each creature who ends their turn in
+the sphere or enters it for the first time takes 5d8 cold damage and it is difficult terrain
+must make a con save of 15 + clone count or be frozen for a turn,
+
+as an action Toki can snap his fingers and make the sphere expload in a shards of ice
+all creatures must make a dex save of 17 or take 8d8 piercing damage half on save
+
+
+-Shield of the Wandering King: twice per long rest if toki's shield gets shattered
+he can swap places with one of his clones.
+
+
+Sucess: 
+Toki takes lethal damage though he just sighs in disapointment, "You probably didn't have
+it anyway did you? *sigh* oh well, before I die again let me tell you something. This is 
+likely the cause of him *points to village* he has probably killed every living and
+dead thing for days. You can either kill him and the weather will be back to "normal" or you
+can ignore him, the weather shouldn't get any worse since you'll be putting distance between
+you guys and him. And here's the reward for besting me, *sigh*.
+
+Toki tosses someone a token that has an unknown town stamped on it.
+
+Reward:
+information
+Toki's Token

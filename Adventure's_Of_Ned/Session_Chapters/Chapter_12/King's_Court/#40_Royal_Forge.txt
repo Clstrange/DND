@@ -1,0 +1,21 @@
+Owner: Graldon: Male Dwarf: Largely built, even for a dwarf, head and shoulders over Garneth
+requires 100G to simply talk to him. Refuses to make anything that he doesn't view as 
+important enough, and won't work with Garneth but won't do anything against him.
+
+Description: Smallest building in the King's Court, but still far from small. Forge is full of
+every tool and contraption immaginable and undescribably hot. Only a few weapons and armors
+are on display on a magnificent rack.
+
+Service: Can make any weapon immaginable and requires a detailed design of weapon requested
+but won't make it Enchantable because he acknowledges that other people can do that part
+better and doesn't want to risk making anything that might keep the weapon from it's fullest
+potential.
+
+Weapon +1: Weapon is a +1 weapon but isn't magical in any way, it is a perfect weapon.
+Price: 1500G
+
+Armor: Armor gets an additional +1AC and doesn't hindermovement or stealth
+Price: 2000G
+
+Item: Can create any custom Item the customer wants
+Price: Varies

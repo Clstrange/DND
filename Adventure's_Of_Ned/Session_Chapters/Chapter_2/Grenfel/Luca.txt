@@ -1,0 +1,39 @@
+	---Luca The Bloodborne Harold(weak)---
+
+Race: Demon
+Class: Harold
+HP: 75
+AC: 18
+
+Dex: 20(+5)
+Str: 12(+1)
+Con: 12(+1)
+Wis: 16(+3)
+Int: 10(+0)
+Cha: 18(+4)
+
+Intiative(+8)
+
+-Attacks-
+- Multiattack: make two melee attacks
+- Bite: hit(+4), 2d6(piercing)
+- Blodborne dagger: hit(+6), 2d6(slashing)
+			     1d4(magic)
+	next attack does 1d8 instead of 1d4
+
+-skills-
+- transfusion: when damging an enemy with the bite
+	attack enemy makes a con save of 14 or Luca
+	heals half the damage dealt.
+- Vasovagal: all target creatures make wisdom saving 
+	throw, on less than 14 target falls asleep
+	for two turns or until damaged. On less than
+	18 target disadvantage on dex saves, half movement
+	and ranged attacks for 5 turns. Takes 1d4 hp
+	for each target chosen.
+- Vanish: takes no damage on dex saves and half on
+	fails. Also when HP falls to zero can 
+	instantly escape.
+
+
+

@@ -1,0 +1,54 @@
+			---Buildings---
+
+-Mayors house-
+description: slightly larger than the surrounding
+	houses. Two stories tall, and in the center
+	of the village. Inside has a large fireplace
+	nice fur rugs, and basic furniture. There
+	is a desk by the fireplace with a small stack
+	of papers.
+
+-Blacksmith-
+description: A house with a small workshop in the 
+	back of his property. Mainly used to 
+	repair tools, does somework with weapons.
+	Has a few weapons to sell to travelers.
+shop:
+- repair tool: 1G
+- repair weapon: 10G
+- shortsword(2): 20G
+- longsword(1): 30G
+- shortbow(1): 40G
+- shield(1): 20G
+
+-Harley's provisions-
+description: Only building that looks like an actual
+	shop. Shelves of basic provisions and items.
+	Carries a larger than average assortment of
+	medicinal herbs.
+
+shop:
+- Raw Healing herbs(10): 2G
+
+-Rolling Hills Inn-
+description: smaller Inn with only 4 rooms for guests, 
+	rather lively for the size, common folk like to
+	spend the afternoons here. Traveling adventures
+	tend to stop by and so there is a small quest 
+	board on the wall.
+
+shop:
+- food: 1g
+- night: 1g
+- provisions: 1s
+
+-Traveling Merchant-
+description: 4ft deep gnome who stand out because of his 
+	higher quality clothes, fine jewerly and large
+	backack
+shop: 
+- health potion(2): 40g
+- cloak of billowing: 45g
+- wand sheath: 50g
+- fancy clothes: 10g
+			

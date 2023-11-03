@@ -1,0 +1,20 @@
+		---Level_Two---
+
+1.
+Description: Small corridor with doorways
+Encounter: Level 2:1
+
+2. 
+Description: Random pillars of rocks and such
+Encounter: Level 2:2
+
+3. 
+Description: stuff
+Encounter: 2:3
+
+4. 
+Description: Storage room, crates and stuff
+Encounter: 2:4 
+
+1.1
+Encounter: 2:1.1

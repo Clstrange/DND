@@ -1,0 +1,4 @@
+Norma: Female Human, Clerk
+Lara: Female Human, Teacher
+Ferrand: Male Human, Teacher
+Menard Male Human, Teacher

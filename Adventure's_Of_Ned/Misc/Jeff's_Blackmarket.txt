@@ -1,0 +1,18 @@
+	---Jeff's blackmarket selections---
+
+Ring of darkness:
+	price: 300 gold
+	uses: 3
+	active: casts the level two spell Darkness
+
+Band of flames:
+	price: 400 gold
+	uses: 2
+	active: cast a level 1 spell burning hands
+
+Lesser ring of fire: 
+	price: 350 gold
+	uses: 5
+	active: cast fire bolt cantrip
+
+

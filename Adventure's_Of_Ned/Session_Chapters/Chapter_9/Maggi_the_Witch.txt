@@ -1,0 +1,56 @@
+NPC-Maggi(human)
+
+Description:
+	4 foot hunched over human that looks
+	really old and withered. White hair
+	Dangling over her face. Has a walking 
+	Stick.
+
+Monologue:
+	Ah, come in, come in. Now what have 
+	you need for a witch hmmm? Hahaha, 
+	I can see it in your eyes, I know why
+	you are here. You have questions no?
+	so many questions. Well I have answers
+	though my service does not come free. 
+	500 gold and your desitinies will be 
+	revealed.
+	
+	*Maggi takes gold coins and where gold
+	was gold appears* Yes, yesss, the dice
+	will tell. Five dice for five stories, all
+	unique, all important. Take head in what 
+	I speak, for the dice speak truth. 
+
+Regal:
+Destiny- The dice speak a sad story of betrayal and 
+	failure. Now the dice speak of what it is you search for. Locked away
+	cold, dark dungeon, sealed away by a sorcerer's crest.
+
+Rinarak:
+Destiny- There be two forces battling for succession
+	they will meet at a crossroads. The dice
+	speak of the far east. There you will
+	find your destiny.
+
+Garneth:
+Destiny- Surrounded by Advisaries, no where you 
+	go will be safe. Your destination isn't
+	the end but mearly the beginning. You
+	must head north and claim what is 
+	rightfully yours.
+
+Virtue:
+Destiny- I see a life in the shadows, 
+	a destiny not of your own. You 
+	must find your own path before 
+	you are entrapped in someone elses.
+
+Freyja:
+Destiny- HAHAHAHA!!! What do we have here? Now
+	this, this changes things. The farther you
+	run from your fate the closer you get. 
+	Responsibilities that were once off in the horizon
+	are now an arms reach away.
+
+

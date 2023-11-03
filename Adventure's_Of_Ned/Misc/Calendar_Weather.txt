@@ -1,0 +1,10 @@
+100 days, 25 days per season, seperate from time Calendar
+
+current day: 64
+
+1-25 = summer
+16-50 = fall
+51-75 = winter
+76-100 = spring
+
+

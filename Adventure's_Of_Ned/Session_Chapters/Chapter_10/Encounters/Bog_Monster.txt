@@ -1,0 +1,49 @@
+Nelly:
+
+Huge Monster: Mass of tenderils encasing a fleshy 
+	body. Most of body inside of the swamp.
+	
+
+HP: 
+AC: 15
+DC: 17
+Hit: + 5
+int: 14
+
+con: + 4
+
+Attack: tendril 1d8 + 4 bludgeoning. 
+	Target is Grappled by tendril. Creature
+	can make DC strength to escape on its turn.
+	DC is increased for each additional tendril
+	grappling creature. If creature saves DC
+	all tendrils are removed.
+	
+
+Skills:
+
+-immovable fortress: Can't move or be moved. 
+	succeeds all strength saving throws. But
+	fails all dex saving throws.
+
+-tenderil_swarm: every creature within a 30 foot
+	radius of Nelly needs to make a dex saving 
+	throw or take 6d8 bludgeoning damage
+	on a fail and be restrained, 
+	take half damage and 
+	not restrained on save. Recharge: 6
+
+
+-MultiAttack: makes six attacks at random creatures
+
+-Overwhemling numbers: if target has four
+	or more tendrils attached. Target is restrained.
+-consume: restrained targets take 2d6 piercing damage
+	and Nelly heals for same amount.
+
+
+lu:2
+ma:3
+me:
+
+

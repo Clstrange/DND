@@ -1,0 +1,23 @@
+			---Magic Licenses---
+Description:
+	The human capital Alankar is very stingent on the obtaining and trading
+	of magical items. Therefore every person must obtain a license before 
+	being allowed to legally own or trade magical items. Magic items are
+	categorized on the basis of there power and there is a seperate license
+	for each category. Fines will be given if personage is caught trading,
+	possessing, or using a magical item without the proper license. All
+	items above grade D must be registered to the owner through the guild
+	of commerce.
+
+
+---Grade: D---
+
+Description: Any magical item that is unable to directly cause harm to 
+	     and individual. The item must be classified as "harmless."
+Requirements: No criminal record
+Fee: 5 gold
+Fine: 10 gold
+
+---Grade: C---
+
+Description:

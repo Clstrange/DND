@@ -1,0 +1,9 @@
+--Character Connections--
+
+Blood Elf - Gondo 
+
+Bardlock - Gondo
+
+Gensai - Dwindle, Bardlock
+
+Dwindle - Gensai

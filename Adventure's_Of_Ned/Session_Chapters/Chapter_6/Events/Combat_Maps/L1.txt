@@ -1,0 +1,35 @@
+		---Level_One---
+
+1.
+Description: The entrance opens up to a cave 
+room that is dimly lit by a couple of torches 
+at each of the corners.
+
+Encounter: Level 1:1
+Loot: None
+Misc: None
+
+1.1
+Description: Small dimly lit hallway that intersects to 
+the left and the right. 
+
+Encounter: Level 1:1.2
+Trap: Perception-12/Dex-14
+
+
+2. 
+Description: Looks to be a type of storage room
+Crates of stolen food that has long since gone 
+bad. 
+
+Encounter: Level 1:2
+Loot: 1 Chest(400G)
+Hidden Staircase: Upper Levelere4
+
+3. 
+Description: Dark room that lacks any lighting.
+
+Encounter: Level 1:3
+Loot: none
+Staircase: Lower Level
+ 

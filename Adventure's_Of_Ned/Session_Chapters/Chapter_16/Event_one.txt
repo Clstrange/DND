@@ -1,0 +1,30 @@
+---GONDO's SHACK---
+
+A medium sized room that is covered with runes. There is a giant magic circle in the center of the room and 
+20 ish small magic circles connected to it and encircling the the giant magic circle. The door leads out into 
+the slums of the capital and the building the party exits is a simple run down shack.
+
+---High Mage Thexius---
+The party returns to the academy where they meet with High Mage Thexius to discuss their success. 
+Thexius conrgratulates the party and brings them to a vault where he offers each of them a reward for their success.
+The reward is a rare magic item of their choosing and an elixar of power that levels up the party. He then tells the party to
+come to the king's war room in one week and hands them a seal.
+
+---Garneth's "gift"---
+In the morning a messenger brings a package to Garneth saying he was told to give this to Garneth Helmfist.
+Inside is a note saying "Keep running you dragonspawn coward and see what else it costs you" and inside is the head of 
+Garneth's father. If the trap wasn't disarmed then everyone in a 60ft radius needs to make a dex saving throw or take 10d12 fire dmg on a 
+fail or half as much on a save.
+DC investigation 18 to notice the trap
+
+---War Room---
+Inside the room there are many generals and other high ranking officials. The head general Dominick Alcov is explaining the plan.
+"The Dwarves navy is barely a few floating rafts, preparations are finished and Captain Halieve will lead our fleet in a surprise
+attack four nights from now when the moon is hidden at night." He looks to the party
+
+"I've been told about you lot and how there is no better strike force for this mission. While the main force storms the beaches you will
+be taking a secret underwater route that should let you bypass the armies. Our attack is mearly a distraction to draw the bulk of the dwarven force
+which will allow you to sneak into the capital and assassinate the king. Halieve can debrief you on the details later but for now we need to discuss 
+the strategy for dealing with the blood elves."
+
+After a few more hours the meeting finishes up and the party prepares to head out in four nights.

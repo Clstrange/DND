@@ -1,0 +1,37 @@
+Slay Wolves: A pack of Wolves are causing problems for local farmers
+talk to innkeeper for details.
+Reward: 150G
+
+Escort LittlePort Relief: LittlePort was attacked by a fire monster and is in desperate 
+need of supplies as locals try to rebuild, escort relief package to assit them. Talk to 
+a Talis clerk for details.(Box of Holding)
+Reward: 650G
+
+Capture Bandits: A Bandit Gang has been causing problems in the city and needs to be apprehended.
+Talk to GuardHouse Clerk for details.
+Reward: 200G
+
+Slay Seamonster: Portmasters are trying to expand their ports on the western side of the 
+capital. But a local seamonster keeps destroying their attempts and expansion and has cost
+the lives of multiple workers. Talk to Royal_Inn_Keeper for details.
+Reward: 400G
+
+Capture Fugitve: Garneth Helmfist is a dangerous fugitive, he is armed and known to use
+lethal force. Capture dead or alive. Talk to Inn_Keeper for details.
+Reward: 5,000G
+
+Guard Warehouse: Tholig_Smarthunter_Vaimei-liag_Warehouse has suffered a couple
+of small-time robberies so they are looking to tighten security while they hold
+some high-value goods for the time being. Talk to Tholig_Smarthunter_Vaimei-liag
+for details.
+Reward: 200G
+
+Gather Herbs: Dooreen's_Plants_and_Herbs has had a higher than expected demand
+and is struggling to meet demand. Need some Herbs for specific potions and 
+remedies as soon as possible. Talk to Dooreen for details.
+Reward: 100G (10% discount from shop)
+
+Peacekeeping: Local crime in certain pockets of the city has been spiking for the
+past few weeks, looking for temporary guards to help keep the peace. Talk to Clerk
+at Guardhouse for details.
+Reward: 15G per Hour

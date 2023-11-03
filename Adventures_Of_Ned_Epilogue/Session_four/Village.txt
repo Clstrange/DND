@@ -1,0 +1,32 @@
+--Village--
+
+Description: a desolute village, smell of death and decay, there are undead corpses lying around and a lot 
+of the buildings look heavily damaged, like a swarm of monsters breaking there way inside. There are a couple of undead
+that the party has to take care of but nothing worth mentioning.
+
+Everyone has three actions for the village
+
+Scavange food: Refill rations
+
+-Explore-
+	-Mayor's house: The party opens the door to see a room full of humans corpses that have not turned undead.
+at the back of the room an older woman in torn and tattered robes that looks like they were
+once beautiful and intricate. She has a crest on the back of her hand that looks like (show picture of Jenson's hosue crest).
+You can see a bunch of empty flasks scattered around her, she has multiple rings on her fingers (ring of mind shielding)
+(ring of obscuring) (ring of feather falling). And wooden staff that has the head of a serpant on the ground next to her.
+The woman is on her knees clutching her stomach and green mist is leaking from her, when she sees the party she turns 
+and they can see her slightly glowing pale green eyes and tears falling from them. She says in a raspy voice, "please, kill
+me" and then she starts billowing green mist and her body starts to degrade and her face contorts as she shouts "No, I must
+kill! kill! kill!
+	- one elderlich lich
+	- lair that can summon 2d4 zombies every turn
+loot: DC investigation - 10+ - 100G lying around
+				- 15+ - 200G secret safe behind painting - DC slight of hand - 15+
+				- 20+ - 400G Hidden in floor boards
+
+	-Basic houses: A lot of smaller houses that have pretty decent yards for agriculture, some sheds and barns.
+loot: DC investagtion - 10+ - 200G
+				- 15+ - 100G
+				- 20+ - Boomerang +1 Hidden in a shed
+
+

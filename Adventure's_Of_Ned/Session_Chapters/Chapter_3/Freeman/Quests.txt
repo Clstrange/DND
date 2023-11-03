@@ -1,0 +1,24 @@
+		---Side_Quests---
+Desert wolves:
+	Every new moon the surrounding desert
+	wolves become more and more aggressive.
+	The village is having a harder time fending
+	them off. Either eliminate the cause of 
+	the wolves agression or eliminate all of
+	the wolvers themselves.
+
+	Location: Deserted mines south-west of the
+		town. About four hours of travel,
+		Mine has three main rooms and 
+		cooridors between them.
+	Combat: run encounters
+
+	Reward: 1000 Gold
+
+		---Mini_Quests---
+Escort_Mission:
+	the usually carrier was killed by wolves and
+	the town needs the cart of ore brought to 
+	the town of Lethanial. 
+
+	Reward: 200 Gold

@@ -1,0 +1,25 @@
+--Deserthall--
+Description: Medium sized town that looks fortified with makeshift walls, ditches towers
+and other defensive structures that look like they were made in a rush. Beyond Desert hall
+the party can see an ever growing cloud of darkness that seems to be getting ever so closer to
+the Town, town looks like it is in the middle of evacuating.
+
+Mayor: Tofiz, male tiefling who is looks extremely paranoid and seems to be everywhere at once. 
+"Hello. I don't know why you've come this way but run, run as far west as you possibly can
+its been less than a week and we've barely held out this long. And that is only because we were
+lucky enough to have Poppy who was staying here while on her journey.
+
+Poppy: Female Human ranger, who looks extremely tired. Is covered in injuries but none that
+look to threatening. 
+"Thanks goodness! The capital sent assistance, quick I need you posted *points to various 
+locations* the undead are mostly active at night, but any we kill in the day is less we
+get swarmed by once the sun falls."
+
+"You are here to end what caused this? Well if you plan on entering that darkness be warned
+I've gotten the closest out of everyone and there's practically a wall of undead crawling 
+at that border. But if the academy really thought you could fix this then I'll have to 
+trust you, and I think my guys and myself can punch a hole in their forces wide enough for you 
+guys to slip through. However that needs to be done at the peak of noon, when the undead are
+weakest. And that means we have to last through the night, what do you say? You help us and we 
+help you."
+

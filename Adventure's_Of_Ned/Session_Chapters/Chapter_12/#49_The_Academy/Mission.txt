@@ -1,0 +1,49 @@
+Mission given to party from Highmage_Thexius
+
+Description: Town of Rockwell has gone surprsingly quiet, they have a small branch
+in the town and they have lost contact with them. They are concerned because the town
+is mainly populated by dwarves as it is a mining town. It seems that the nearest City is having
+trouble getting in contact with the town as well. I would like you to evacuate everyone and
+everything of value of the Academy branch there.
+
+Encounter: The town of Rockwell is surrounded by a large stone wall. 
+It is manned constantly by Dwarven Guards and Guards are patrolling at all times throughout
+the Town and Curfew is being enforced. A giant section of the town looks like it has been
+burned down. The Town was attacked by Millie and the Dwarves believe she is Garneth's ally
+and will be back with reinforcements so they have the town in lockdown.
+
+Reward: 1500G
+	Rank up: Eligibility for Tournament 
+	
+
+
+5 Dwarven Enforcers
+
+12 Dwarven Armored Units
+
+25 Dwarven Militia Men
+
+Dwarven Enforcers:
+HP: 100HP
+AC: 19
+HIT: +7
+INIT: +4
+ATK: Thunder Hammer: Multiattack x2: 1d8 + 4 bludgeoning dmg, DC con 16: 3d8 thunder dmg + push10ft
+Resist: Resistance to all magic damage
+
+Dwarven Armored Units:
+HP: 75
+AC: 17
+HIT: +6
+INIT: +2
+ATK: WarHammer: Multiattack *2 1d8 + 6 bludgeoning dmg
+
+Dwarven Militia Men:
+HP: 20
+AC: 15
+HIT: +5
+ATK: MiningHammer: Multiattack *2 1d6 + 4 bludgeoning dmg
+Skill: Zealous Rampage: Take an extra action: double str: half str for two turns after
+
+
+Dwarven Militia Men

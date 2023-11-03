@@ -1,0 +1,9 @@
+Owner: Galudash_The_Superior: Male Half-Orc
+
+Description: Rough looking place, looks patched up and like someone tried to make it look
+nice by using nicer materials for repairs but just made it look mismatched. Sign as the 
+word Superior carved into it.
+
+Bonus: Cheaper than the Galudash_Inn but just enough to make it inconvient
+
+Quest_Board:

@@ -1,0 +1,35 @@
+
+Spell Craft: Replace known spells, level of spell depends on class tier
+I: Cantrip-Level_1; Price: 50G
+II: Level_2-Level_4; Price: 150G
+III: Level_3-Level_8; Price: 400G
+IIII: Level_9; Price: 1000G
+
+Magic Memorization: Be able to recall any details of a spell from sight/incantation
+I: Cantrip-Level_5; Price: 200G
+II: Level_6-Level_9; Price: 500G
+III: Magic Theory(Understand all magical effects + advantage on Arcana Checks); Price: 750G
+
+Spell Library: Add any spell to book/memory
+I: Level_1; Price: 150G
+II: Level_2-Level_3; Price: 300G
+III:Level_4; Price; 500G
+
+History: Learn the history of Alenkaria
+I: Human Magiks: The Royal Cabal; Price: 75G
+II: Foreign Powers: Dwarven Enforcers and Elven Purebloods; Price: 200G
+III: History of Gifted; Price: 200G
+IV: Truth behind Elder Gods and beings of great power: 300G;
+V: Colonization of Alenkaria: 75G
+
+Knights Training
+I: Simple Weapon Proficency: 75G
+II: Martial Weapon Proficency: 150G
+III: Medium Armor Proficency: 200G
+IV: Heavy Armor Proficency: 400G
+
+Survival training
+I: Wilderness Cook Feat: 175G
+II: Tracking Feat: 150G
+III: Survivalist Feat: 450G
+	

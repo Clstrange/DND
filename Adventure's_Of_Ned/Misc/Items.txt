@@ -1,0 +1,15 @@
+		---Custom_Items---
+Antidote: 
+	Cures any poison, paralysis, 
+	or charm effect
+Signal Flare: 
+	One time use sends streak of 
+	light into the sky then causes a bright 
+	explosion. Visible for miles away, Monsters
+	will not approach the area around the explosion
+	Lasts for one turn. Using to attack acts
+	like the cantrip Fire Bolt.
+Lesser Mana Potion
+Mana Potion
+Greater Mana Potion
+Warhammer(Thunder)

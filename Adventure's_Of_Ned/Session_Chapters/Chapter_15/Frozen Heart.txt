@@ -1,0 +1,41 @@
+Summary: As the party approaches the Lake the party can hear a distant 
+tune coming from the frozen lake. They can see multiple light blue humanoid spirits
+that look like the are made out of thin ice
+in snow white dresses spinning around slowly dancing aimlessly to that far off tune,
+you can also here a light clinking sound that seems to be playing in rhythm as well.
+
+If the party chooses to investigate, then as they get closer they can feel the air get colder
+and they can see figures in the distant sychronisly mining away at mounds of ice
+and in the center of it all there appears to be an item encased in the ice.
+
+Challenge:
+	reach the frozen heart before the party freezes to death
+	
+	The frozen heart is 120ft away from the players and the ground is difficult 
+	Terrain. Whenever an undine dies a new one spawns 15ft from the frozen heart. Every
+	round 1d6 undine spawn 20ft away from the player closest to the heart
+
+Undine: 
+HP-10
+AC-14
+SPD-20ft
+-Hearts protection: Immune to magic damage
+-Icy Aura: The undine radiates a cold field in a 20ft radius that deals 3d8 cold damage
+	when a creature enters or ends its turn in the field
+-Chilling Aura: The undine radiates a cold field in a 10ft radius that deals an additional
+	2d8 of damage when a creature enters or ends its turn in the field. And speed
+	is reduced by 5ft while in the field
+-Artic Aura: The undine radiates a cold field in a 5ft radius that deals an additional 
+	1d8 of damage and the user must make a con save of 16 or be frozen. Speed is reduced
+	by an additional 5ft while in the field
+
+Frozen heart:
+HP-100
+AC-16
+
+Success: Once the players break open the heart all of the ice skeletons and undine turn to
+look at the player holding the Frozen Heart. And then they all collapse and shatter 
+across the floor.
+
+Reward: Frozen Heart Longbow
+

@@ -1,0 +1,8 @@
+Owner: Anya: Female Human
+
+Description: Relatively nice looking place, pretty full of people. At night has entertainment.
+
+Bonus: If you tip the entertainers they will play extra well and their music will
+naturally make you relax. Resting die +1.
+
+Quest Board: 

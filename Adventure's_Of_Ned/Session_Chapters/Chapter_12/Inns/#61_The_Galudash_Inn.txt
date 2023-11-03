@@ -1,0 +1,10 @@
+Owner: Galudash: Male Half-Orc:Twin to Galudash_The_Superior
+
+Description: Inn is just run down enough to give it a slightly homey feeling.
+Not to fancy but not to Ghetto, enough space to not feel cramped and a couple of customers 
+lounging around while Galudash serves the customers himself. The size of the building allows
+the fireplace to keep the room nice and toasty.
+
+Bonus: Average nice Inn
+
+Quest_Board:

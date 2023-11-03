@@ -1,0 +1,19 @@
+---Dwindle Unique Ability---
+
+Each morning roll a Wisdom check DC-15
+
+Fail:
+- Dwindle's personality changes to be more aloof
+- Dwindle's senses are mixed with all of the surrounding wild life, struggling to tell what thoughts and feelings are his own
+- Acts more on instinct than on reason
+- Is susceptable to outside influence
+- Pain in numbed as he stops resisting the power of Nature Spirit inside of him
+- Disadvantage on Wisdom checks (When in nature dense areas)
+- Disadvantage on Charisma checks
+
+Succeed:
+- Feels constant pain
+- Is perfectly lucid
+- Can seperate his senses from the nature around him and use it to his advantage
+- Advantage on Nature checks
+- Advantage on Perception checks in nature dense areas

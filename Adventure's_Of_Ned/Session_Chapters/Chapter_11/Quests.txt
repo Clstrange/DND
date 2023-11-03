@@ -1,0 +1,40 @@
+Slay sea monsters: the Lake is getting oversaturated with monsters that
+need to be cleared out see portmaster Galmar(gnome) for more info.
+-Malwin(human) and his small crew takes you on his ship or you are given a 
+small row boat and bait to draw monsters in. These monsters eat all of the fish making fishing
+more difficult and the bigger ones can be threats to crews. 
+-Encounter: Large spined fish *4 HP: 30, hit +5, 1d10 + 2 piercing + 2d6 + 4 poison
+	Mini Kraken HP: 60, hit + 7, multiattack *  4, 1d8 + 4 piercing, 2d6 + 4 poison, grapple DC: str 15
+-Time: 6hrs, most time spent waiting and killing smaller predators that are not worth mentioning
+	Reward: 400G
+Unloading shipments: We are expecting a large shipment from a city,
+we need to load and unload the ships in time to meet strict
+deadlines. See portmaster Galmar for more info
+-Start unloading shipment deadline 4hrs, fastest time = 2hrs 
+time = 0
+-unloading
+DC str: 14 fail = +30min
+DC dex: 15 fail = +30min
+-about to finish unloading
+disaster die 1d4:
+	evens = strike: DC Char: 16 fail = +1hr
+	odds = companion trips: DC dex: 15 fail = +30min
+-loading
+DC str: 16 fail = +30min
+DC dex: 17 fail = +30min
+
+	Reward: 250G, bonus 100 if perfect score
+
+Community support: With the influx of people from the destruction of
+LittlePort, help is needed constructing temporary shelter,
+keeping the peace, and passing out rations
+-story: I saw this mysterious woman enter the village she looked extremely annoyed,
+	she was ___description___ and scales across her arms. She demanded to see who was 
+	in charge so I directed her to the mayor. I heard some shouts coming from the mayors
+	house and next thing I saw a man in red robes got blasted out of the door. Then the
+	house was on fire and the guards rushed towards the building. That's when the
+	real fighting began. Twelve guards and two fire mages vs her, and then everything was
+	on fire and some villagers died next thing everyone was running 
+	trying to get out as soon as possible.
+
+	Reward: 250G, information on incident in detail

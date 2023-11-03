@@ -1,0 +1,22 @@
+-Day Two-
+	- Arrive at the Cherry tree: Cherry tree event
+	- Leave Cherry tree: Travel Dragon path
+	- Leads into a Valley at night and if the players didn't accept
+		any of Aquarious's quests or doesn't spend the night there
+		then it flash floods
+
+-Flash flood-
+At night the rain starts pouring and whoever is awake notices that 
+within a couple of hours the water level is really starting to rise 
+and the water starts moving so fast and the soil is loosening up to the
+point trees are starting to collapse.
+
+- if the party moves through the night they have to spend 4hrs to get through
+the danger. Each hour a d4 is rolled 
+	1 - Rapids: DC str-15 or be swept away and risk drowning until saved
+	2 - Lightning: DC dex-18 or take 4d10 dmg
+	3 - Trees collapse: DC dex-15 or take 2d12 dmg and be trapped str-18 to escape
+	4 - three Sea Hags appear and attack
+- if the party doesn't move then in the morning the path is completely in ruins 
+there is nearly a foot of mud and it takes the party three days to travel the next
+one day worth of distance.

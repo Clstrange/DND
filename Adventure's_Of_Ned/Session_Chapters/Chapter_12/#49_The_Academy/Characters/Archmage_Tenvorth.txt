@@ -1,0 +1,14 @@
+Class: Archmage
+Race: Human
+Gender: Male
+Name: Tenvorth Nenan
+Title: Archmage Tevorth, Academy Leader
+Powers: He has the Powers of an Archmage Monster
+
+Description: Tenvorth Nenan is a powerfully built human that stands 6ft 4inches tall
+he wears a black shirt and pants under his tightly fitting 
+robe that is a mix of blue and purple trimmed with gold.
+
+Personality: Is interested in Garneth, but overall believes he has
+bigger problems than dealing with the party. Will do nearly anything
+to protect and advance the Academy.

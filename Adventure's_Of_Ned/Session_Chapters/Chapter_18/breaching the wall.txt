@@ -1,0 +1,35 @@
+As the party and their army approach the capital they enter the first line of defence of the Dwarven capital The Wall.
+The wall is made out of thick stones and 6 layers of 5ft thick Iron gates. With large battlements on the top to fit 
+specialized ballistas
+
+Wall: HP - 500
+	AC - 17
+	Height - 50ft
+	thickness - 30ft
+	Width - 60ft
+	Holes in the top 20ft to fit 24dwarves with crossbows
+
+60 Dwarven soldiers
+5 Dwarven enforcers
+6 Ballistas
+
+
+Ballista:	HP - 100
+		AC - 19
+		Hit - +10
+		Dmg - 3d10 piercing
+		DC: dex 15 within 5ft radius or 3d10 fire none on save
+
+
+
+
+Acyolites of the Dragon Companies
+6 groups of 50 dwarves each
+
+HP: 120
+AC: 18
+Hit: +6 3d8 multiattack
+
+Catapult - takes three turns to channel but throws a giant bolder doing 10d10 dmg to structures
+Lightning bolt lvl 7 - 12d6 once per day
+Shatter lvl 5 - 6d8 once per day

@@ -1,0 +1,9 @@
+		---Luca_Mini---
+
+HP: 40
+
+AC: 14
+
+ATK: hit + 7, 2D4 + 4
+
+paralyze: WIS 17

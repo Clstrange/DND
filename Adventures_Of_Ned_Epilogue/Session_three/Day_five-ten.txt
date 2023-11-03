@@ -1,0 +1,31 @@
+For the next five days party rolls encounter dice each day.
+
+Encounter_one:
+	Details: At night once again a group of greenish lights appear leading
+	off into the distance. They lead to a small hut where a Annis Hag, Dusk Hag
+	and three green Hags are conversing.
+
+	Reward: Inside the hut is two random uncommon items
+
+	Note: if wisps were followed earlier this encounter does not exist
+
+Encounter_two:
+	Details: a small group of sprites start harrassing the players and threatening
+	them. If the players attack then a total of 30 sprites appear and combat 
+	starts.
+
+	The sprites harrass Luke from a distance and do not let him set up his tiny hut
+	
+	If the players do not attack then that night the 30 sprites appear and deal
+	3dmg instead of 1 and auto poison for one turn.
+
+
+Encounter_three:
+	Details: Fairian returns again offering a challenge to Luke's character,
+	a battle of music. Best of five rounds contested Performance checks.
+
+Fairian performance = + 9
+
+Fairian tries to cheat by clapping along or humming along to Luke's music and
+causing him to make Wisdom saves of 15 or have disadvantage. He only does this
+when losing or on the final round.

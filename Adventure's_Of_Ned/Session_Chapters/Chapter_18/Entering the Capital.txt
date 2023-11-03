@@ -1,0 +1,24 @@
+---Enter the Capital---
+
+The party rushes to the King's palace and their army defends them from any guards up until the get within a hundred feet or so
+when they are met by the royal guard and the city guard collapsing in on them
+
+
+
+Lair - initiative 20 - summon 3d6 dwarven soldiers from one of three points on the map, whichever is closest to the players
+
+
+30 dwarven soliders
+10 dwarven enforcers
+5 dwarven artificers
+
+pairs of 6 soliders, 2 enforcers, and 1 artificer
+
+Artificer
+HP: 50
+AC: 16
+
+Dwarven thrower enchanted with booming blade
+
+Hit: + 7
+Dmg: 1d8 + 3bludioning, 2d8 thunder if they move 3d8 more thunder

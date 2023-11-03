@@ -1,0 +1,15 @@
+Class: Highmage
+Race: Human
+Gender: Male
+Name: Thexius
+Title: Highmage Thexius, Southern FireSpitter
+
+Description: Thexius is a smaller Tiefling, he is someone who is easy to overlook. His 
+wizard robes look slighlty to big for his figure and he has a pair of glasses and seems to 
+always have his nose in a book. The one thing that does stand out is his bright red and orange
+robes that cover him from head to toe. The robes are lined with gold and give off the vibe 
+of a scorching desert.
+
+Personality: Is fascinated in magic theory and isn't a fan of his own magic that is the 
+only kind that he is talented at, fire and sand. He is highly concerned over Garneth's 
+safety and that of his party.

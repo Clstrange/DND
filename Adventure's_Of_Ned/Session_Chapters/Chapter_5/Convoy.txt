@@ -1,0 +1,30 @@
+		---Convoy---
+
+Party Meets with Convoy of six wagons that are all
+covered in tarps. They looked well equipped, 
+closer to adventurers than merchants.
+
+-Leader-
+Nathan:
+Race: Human
+Height: 6ft-2in
+Hair: Dirty Blonde
+Equipment: medium armor, longsword, shield
+HP: 45
+AC: 17
+ATK: +6hit, 1d10+4
+Skills: Multi-attack(x2)
+Notes: Criminal Background, Despises Southern 
+Tieflings and Elves.
+
+-Right_Hand_Man-
+Gabriel:
+Race: Dwarf
+Height: 5ft
+Hair: Black 
+Equipment: Heavy Armor, Warhammer, Shield
+HP: 60
+AC: 19
+Skills: Guard
+
+

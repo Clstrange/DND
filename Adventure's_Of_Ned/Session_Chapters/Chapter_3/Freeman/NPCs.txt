@@ -1,0 +1,16 @@
+		---NPC's---
+
+-Important NPCs-
+Antoine Hathorn: Mayor
+Lowa: mning center employee
+Jimmy: armorer
+Manson: Tavern Owner
+Gilderd: Forgery
+Lucy: Inn Owner
+Jermey: Inn Owner
+
+-Unimportant NPCs- 
+George: Male
+Jermey: Male
+Lucy: Female
+Eliza: Female

@@ -1,0 +1,26 @@
+wave 1
+9
+
+Normal: 20hp
+attack: +6 hit, 1d8 +2
+AC:12
+
+1
+
+wave 2 
+normal: 40hp
+AC: 18
+Attack: +7, 1d12+ 5
+
+wave 3
+HP: 60
+AC: 19
+attack; +8, 2d8 +4
+
+
+8
+
+
+
+
+

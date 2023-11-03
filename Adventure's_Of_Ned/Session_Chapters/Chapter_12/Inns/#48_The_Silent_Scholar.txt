@@ -1,0 +1,6 @@
+Owner: Lojion: Male Gnome
+
+Description: Nicest looking Inn around, constant maintence and plenty of space for each table.
+Many bookcases and students studying. 
+
+Bonus: Information can be found here.

@@ -1,0 +1,25 @@
+-Random enounters-
+Nights till encounter - 1d6
+Morrison bonedrew encounter - 1d4 - 4
+Encoutner type - 1d4
+			1 - zombies 3d8
+			2 - skeletons 3d8 
+			3 - wights 1d4 1/2 hp, auto crits
+			4 - one Deathlock Mastermind
+
+-Scavenging for rations-
+village/town - refill rations to max
+wilderness - DC survival 19 - +1 ration
+		- nat 20 - +2 ration
+
+-village/town-
+village - 5 days travel - +3 day to journey
+town - 10 days travel - +1 day to journey
+
+-Night time-
+If the party doesn't fight the current monsters that show up, more will every two hours roll the 
+d4 again.
+
+4
+
+

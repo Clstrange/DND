@@ -1,0 +1,7 @@
+		---Level_Three---
+1. 
+Description: Dark room, pillars, lots of wolves 
+	chained up sleeping
+Encounter: Level 3:1
+
+2. 

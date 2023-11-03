@@ -1,0 +1,98 @@
+---Cherry Tree---
+
+- The dense forest opens up to a wide area that is wide open besides the great Cherry 
+Tree that stands hundreds of feet tall
+
+- As the players approach the Cherry Tree they notice multiple streams of water leading
+there
+- As night approaches clouds start to move in and there is heavy rain and high winds
+outside
+- Aquarious appears behind the farthest back player and whispers "Now who might you be?"
+- She introduces herself and asks the party to sit with her for tea
+- She wants them to tell her about the new land and tries to convince them to go 
+on a quest for her
+- She tells them that the Gold Dragon Shvar'liah has made its home farther down the
+path, she is a young dragon and the party should be able to handle it but she is crafty. Ff not they
+have to options.
+	1. Go around and take an additional three days travel
+	2. Pay her 500 Gold for her to tell them of a secret path that will lead
+	them past the Dragon and only take a couple of extra hours
+
+-Aquarious the Storm Maiden, Daughter of Oko-
+- Aquarios is a smaller woman 5ft 5in tall. She has vibrant hair of different shades 
+of blue and green. She wears a light dress of similar colors and here vibrant blue 
+eyes have raindrop shaped pupils. She speaks in a lax soothing tone water seems
+to be constantly dropping from her as if she just got out of the lake and was 
+soaking wet.
+
+- Aquarious is a relatively young, 412 years old
+- Aquarious is Ambititous but hides in behind a calm demeanor 
+- Aquarious is fasinated by the mortal realm and loves to travel and wants to break the bonds 
+	that force her to stay within the Fey realm. 
+		- ways she knows to accomplish this
+			1. Plant two more Tears of Oko so that her Father can be summoned
+				and Turn the whole mortal realm into the fey
+			2. Use Kyra the Oathbreaker's heart to fight him in the labrynith
+				and gain his dagger Oathbreaker
+			3. Increase her own strength by finding a way to absorb the power
+				of the fey around her.
+- at night the area is storming besides a small section of clouds that have parted 
+to let the night sky through with Aquarious watching the stars from below.
+
+
+- Aquarious Quests -
+
+_Quest one_
+Details: Take a tear of Oko and plant it in the mortal realm in the land of Alenkaria
+	in non-desecrated soil
+
+Reward: A rare magic item from her collection
+
+Note: Can be done twice
+
+_Quest two_
+Details: Take Kyra's the Oathbreaker's heart and use it in Solocav's labrynth to
+	find his room. Defeat him and return his name-sake dagger Oathbreaker to me.
+
+Reward: Any reward up to one of her few legendary items in her collection
+	- One of which is the Ollamh harp
+	- Offers to take Rovock to see her father
+
+_Quest three_ 
+Details: Travel to Alenkaria's old human capital and kill Rinarack, use a gem
+	to capture his soul and return it to me.
+
+Reward: My entire magic item collection and I will bind my soul has your servant 
+for two years.
+
+
+
+
+
+HP: 400
+AC: 17
+SPD: 35ft
+
+Dex: +4
+Str: +2
+Wis: +10
+Int: +6
+Cha: +4
+
+Abilites:
+Tsunami Spell - 1 use
+
+Water strike (arms turn into streams of water): 15ft reach, +8 hit, 2d12 cold dmg
+
+multiattack: three water strikes
+
+Depths of the Abyss: creature must make a dex save of DC-18 or be snatched by a stream of water from the lake and get pulled under.
+The creature can remake the save at the end of their turn. Another creature can jump into the water to save the creature and give the creature advantage on
+their save. 
+
+Call of the storm: when Aquarios is bloodied her colors become a darker shade and her pupils turn to lighting bolts and she gains legendary actions 3pts.
+	The sky darkens and storm clouds come in.
+
+legendary actions:
+(1pt) Call lightning spell
+(2pt) Depths of the Abyss

@@ -1,0 +1,84 @@
+Clerk: Wanda(Human)
+Teacher: Ammon(Human)
+Students: Asher(Human), Hanna(Human), Torsh(Half-Orc), Piper(Kenku)
+
+
+-Classes-
+Spell Craft: Replace known spells, level of spell depends on class tier
+I: Cantrip-Level_1; Price: 50G
+II: Level_2-Level_4; Price: 150G
+(Not offered at Mini_Academy)III: Level_3-Level_8 Price: 400G
+(Not offered at Mini_Academy)IIII: Level_9 Price: 1000G
+
+Magic Memorization: Be able to recall any details of a spell from sight/incantation
+I: Cantrip-Level_5; Price: 200G
+II: Level_6-Level_9; Price: 500G
+
+Spell Library: Add any spell to book/memory
+I: Level_1; Price: 150G
+II: Level_2-Level_3; Price: 300G
+III:Level_4; Price; 500G
+
+Magic History: Learn the history of magic in Alenkaria
+I: Human Magiks: The Royal Cabal; Price: 75G
+II: Foreign Powers: Dwarven Enforcers and Elven Purebloods; Price: 200G
+III: History of Gifted: Price: 500G
+
+History of Gifted:
+	The only Ancient Records that surpass 400 years ago is
+	the battle between Alenkar and his brother the Malthus.
+	Back when Man just arrived in Alenkaria two brothers rallied all of the 
+	Humans under one flag. Both were unspeakably powerful born
+	to magic that is lost to this day. One day a great monster threatened 
+	Humanities existence. Darkness covered the sky as a Draconic Shade the 
+	size of a fortress attacked. The two brothers fought together slowly but 
+	surely bringing the beast down. Then disaster struck as the eldest brother
+	was struck down. By himself the younger brother released a forbidden spell
+	in order to protect his country. The younger brother banished the 
+	Shade, using his own body as a vessel to contain the monster. He then 
+	melded the monster with his skin, fusing its power with his own to 
+	ensure that it would never escape. The older brother was missing and presumed dead,
+	and the younger brother was corrupted. Years past and the 
+	younger brother's sanity wained and he was consumed by 
+	hatred. Eventually the younger brother completely lost himself as he
+	declared war on the entire world, annihilating any non-human beings.
+	The older brother returned to see his younger brother destroying everything
+	he had sought to protect. He attacked his brother taking him by surprise,
+	the older brother dealt a fatal blow before the younger brother even
+	understood what was happening. Upon the younger brothers death the 
+	corruption inside his body released across land threatening to turn it
+	into a necrotic wasteland. The older brother poured all of his life into
+	his most powerful holy spell. He then speared that power through ground
+	willing it to spread across the entire land cleansing it of all 
+	corruption. The gifted are a side effect of this event, the power that
+	Alenkar poured into the land will rarely appear inside an individual.
+	Granting said individual with holy magic that is usually related to healing.
+
+Human Magicks: 
+	Dating back as far as 400 years the Human's Royal Cabal as served as 
+	both powerful political actors and military assest. The Cabal consits
+	of 32 of the most powerful mages in Alenkaria, some rivaling
+	the Elven Purebloods. Most of the Cabal usually come from prominant 
+	Sorcerer families, such as the Balfors. With the creation of the Academy
+	more and more of the Cabal's ranks are being filled with prior students.
+
+Foreign Powers: 
+	While the Humans have their own Royal Cabal the Dwarvan Clans and the 
+	Elven country has their own form of magic orginization. With the Dwarves
+	it is the Enforcers. Each Clan has their own group of Enforcers that
+	work as a police force that reports directly to the Clan's king. Little 
+	is known of them as the Clan's like to keep them as secret as possible. 
+	But they are equipped with anti-magic equipment that is attuned to their
+	specific person. And they are the clans go-to when hunting down any
+	wanted individual. The Elves on the otherhand have their PureBloods. 
+	The more tightly one is born into the royal bloodline the stronger
+	their magic will be; therefore the "purer" their blood is. Elven
+	PureBloods are known to be the most magically potent sorcerers in
+	Alenkaria though little is known how many remain after King Gavid wiped them
+	out during the Siege of Armadon through the Great War.
+	
+	
+
+
+	
+	

@@ -1,0 +1,8 @@
+Owner: Mogeg: Male Half-Orc
+
+Description: full of guards and people who look like they've been through a lot of battle.
+Most customers have scars or injuries.
+
+Bonus: Free room and meals for guards.
+
+Quest_Board:

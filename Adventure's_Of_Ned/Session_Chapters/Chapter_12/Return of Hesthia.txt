@@ -1,0 +1,25 @@
+Name: Hesthia, The Bloodborne Harold
+Race: Unknown
+Class: Unknown
+
+
+
+HP: 300
+AC: 16
+Init: +6
+HIT: + 6
+
+ATK: ??? Dagger: Multiattack * 3: 
+1d6 + 5 slashing: 3d6 blood dmg: con save 15 or paraylze 1turn: Heal dmg dealt
+
+Reaction: BloodShield: uses 1: reset roll6: shield HP 75: direct shield to take damage for Hesthia
+
+
+legendary action 1per round 
+
+recharge 6
+Bloody Explosion: take 8d6 dmg to cast: dex DC 16 half dmg: 8d6 dmg: summon blood from body and sends shards of it into enemies
+Bloody Implosion: anyone hit by full Bloody Expolosion takes 4d8 dmg and Hesthia heals for damge dealt
+
+Bloody shard: 1d6 dmg to cast; send a single shard of blood DC dex 17: 3d6 dmg
+Bloody return: return shard dealing 2d8 dmg and healing

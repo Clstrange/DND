@@ -1,0 +1,65 @@
+		---Buildings---
+
+Mayor's house-
+description: 
+	Larger than the surrounding houses, nicer
+	rugs, wood flooring, and some fancy painting.
+
+Town hall-
+description:
+	Cleaner than most buildings but is still
+	covered in splotches of mining dust. A couple
+	of desks where miners can come in and fill
+	out paperwork. Mayors desk is in the far back
+	and center with layers of papers.
+services:
+	- has a quest board 
+	- legal purchases of land
+	- legal disputes
+
+Mining center-
+description:
+	extremely dirty and covern with mining dust
+	filled with people disputing over prices and
+	quality of ores.
+
+services:
+	- purchase mining license
+	- sell ores
+
+Jimmy's armory:
+description: run of the mill armory
+
+products:
+	- all basic armors and weapons/repairs
+
+Gilderd's Forgery:
+description: extremely hot and uncomfortable forge
+
+products:
+	- custom made weapons and tools:
+	price + 60%g
+	
+	- stone splitter(1): 60g
+
+Dust Devil Tavern:
+description: full of loud miners drinking
+	after a long days work. 
+
+services:
+	- food: 1g
+	- provisions: 1s
+
+Iron Forge Inn:
+description: quieter inn, decent looking and well kept
+
+services:
+	- food: 1g
+	- provisions: 1s
+	- room(5): 1g
+
+
+
+
+		
+		

@@ -1,0 +1,28 @@
+		---Events---
+VILLAIN | 1 HOUR of Epic Dark Sinister Dramatic Action Music
+-Race to Freeman-
+
+Cinematic:
+	"As the sun sets and the new moon rises
+	the darkness sweeps across the land and
+	an eerie feeling is left in its wake. You
+	hear howls start to echo across the land,
+	quiet and distant the howls become louder 
+	and in unison. You start to see beasts
+	with red eyes appear out from behind and atop
+	large boulders. You turn around and see that 
+	a large pack of wolves is coming at you at
+	a distance from the south."
+
+Combat:
+	The village is 300 feet to the north and 
+	there are seven wolves behind the party
+	and eight wolves along the path 200 feet 
+	behind the party
+
+	Because of the rocky terrain and how dark
+	it is, any creature without dark vision
+	must succeed a DC Dex saving throw of 13
+	or they fall prone half way through their 
+	dash.
+
